@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/Habibullo-1999/server/pkg/server"
+	"github.com/Habibullo-1999/http/pkg/server"
 
 )
 
